@@ -1,0 +1,15 @@
+.btns button{
+background-color: rgb(204, 129, 16);
+border: none;
+margin-left: 30px;
+height: 30px;
+width: 60px;
+border-radius: 6px;
+color: white;
+margin-top: 60px;
+font-size: 20px;
+font-weight: bold;
+}
+.btns{
+    margin-left: 240px;
+}
